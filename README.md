@@ -1,6 +1,11 @@
-# Updating Water Supply Adjustment Standards in the Boryeong Multipurpose Reservoir
+# Updating Water Supply Adjustment Standards in the Boryeong Multipurpose Reservoir with Adpative Actions
 
-This repository is an application of the 
+This repository is an application of the reforming the current reservoir operating policy, zone-based hedging rule, of Boryeong Multipurpose Reservoir located in the western coast of the Republic of Korea. 
+
+In order to replicate the steps of the reformation of zone-based hedging rule in the Boryeong Reservoir, you will need the data files from the following Dataset on Mendeley Data (). Since all the required files are either on this repository or Mendeley Data, please follow the instructions written in the code
+
+This code is used to generate the dataset used to generate figures in: Kim, G. J., Seo, S. B., & Kim, Y.-O. (under review) "Adaptive Reservoir Management by Reforming the Zone-based Hedging Rules against Multi-year Droughts," currently under review in Water Resources Management. 
+
 
 
 
@@ -9,8 +14,3 @@ This repository is an application of M3O Matlab toolbox for designing optimal op
 
 In order to replicate the steps of the analysis on Boryeong Reservoir, download the data files from on the following Dataset on Mendeley Data (http://dx.doi.org/10.17632/9ntcdscwpd.3) and copy the files into /sim/data in this repository, which is currently empty. After that, run the main_script.m file by carefully following the instructions given inside the code file.
 
-This code is used to generate the dataset used to generate figures in: Kim, G. J., & Kim, Y. O. (2021). How does the coupling of real-world policies with optimization models expand the practicality of solutions in reservoir operation problems?. Water Resources Management, 1-17. https://link.springer.com/article/10.1007/s11269-021-02862-y
-
-Informal Erratums to the article is attached in "Informal_Erratum.pdf." Please refer to this file as the informal Erratum to the paper Kim and Kim (2021), mentioned above.
-
-The description of the original M3O toolbox can be found from https://github.com/mxgiuliani00/M3O-Multi-Objective-Optimal-Operations. Please refer to the original Readme file for more detailed explanations regarding methods using M3O toolbox.
