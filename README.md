@@ -1,6 +1,6 @@
 # Updating Water Supply Adjustment Standards in the Boryeong Multipurpose Reservoir with Adpative Actions
 
-This repository is an application of the reforming the current reservoir operating policy, zone-based hedging rule, of Boryeong Multipurpose Reservoir located in the western coast of the Republic of Korea. 
+This repository is an application of the reforming the current reservoir operating policy, zone-based hedging rule, of Boryeong Multipurpose Reservoir located in the western coast of the Republic of Korea. The current status quo (SQ) rule is generated based on the synthetic 10-day inflow series generated from periodic autoregressive (PAR) time series model. 
 
 In order to replicate the steps of the reformation of zone-based hedging rule in the Boryeong Reservoir, you will need the data files from the following Dataset on Mendeley Data (). Since all the required files are either on this repository or Mendeley Data, please follow the instructions written in the code
 
