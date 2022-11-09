@@ -9,4 +9,4 @@ For the generation of the alternative zone-based hedging rule, refer to 'DrResOP
 For the generation of the figures in the manuscript and reservoir simulation, refer to 'R&A_Model Operation(ALL).R' file or '3DScatterplot_Adaptive.R' files.
 Specifics regarding the logics behind the application, refer to the explanations in the published manuscript. 
 
-This code is used to generate the dataset used to generate figures in: Kim, G. J., Seo, S. B., & Kim, Y.-O. (under review) "Adaptive Reservoir Management by Reforming the Zone-based Hedging Rules against Multi-year Droughts," currently under review in Water Resources Management. 
+This code is used to generate the dataset used to generate figures in: Kim, G. J., Seo, S. B., & Kim, Y. O. (2022). Adaptive Reservoir Management by Reforming the Zone-based Hedging Rules against Multi-year Droughts. Water Resources Management, 36(10), 3575-3590. https://doi.org/10.1007/s11269-022-03214-0.
